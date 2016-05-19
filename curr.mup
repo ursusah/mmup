@@ -1,0 +1,669 @@
+{
+  "title": "My\nPyR TEXing Tasking \nSystem Planner",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "-0.75": {
+      "title": "PyR",
+      "id": 38,
+      "ideas": {
+        "3": {
+          "title": "To Research",
+          "id": 42,
+          "ideas": {
+            "1": {
+              "title": "o0O. Learning theory (VRAK etc.)\ncf. wiki-\"learning style\"",
+              "id": 39,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            },
+            "2": {
+              "title": "o0O. assign  dimensions to past paper questions",
+              "id": 40,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "- Knowledge base (lo's...)<div><br></div><div>- AO1-Knowledge-with-under-standing</div><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>AO2-Handling-applying-evaluating</div><div><br></div></blockquote>- Question type<div><br></div><div>- Difficulty level</div>"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "4": {
+          "title": "To Tackle",
+          "id": 43,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          },
+          "ideas": {
+            "2": {
+              "title": "predict exam questions\n",
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              },
+              "id": 45,
+              "ideas": {}
+            },
+            "3": {
+              "title": "evaluate qt effectiveness\n",
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              },
+              "id": 48
+            },
+            "4": {
+              "title": "work out training algorithm",
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              },
+              "ideas": {},
+              "id": 49
+            },
+            "5": {
+              "title": "analyze previous scores",
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              },
+              "ideas": {},
+              "id": 53
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        },
+        "position": [
+          290.0468750000002,
+          -387.8046875,
+          83
+        ]
+      }
+    },
+    "-31": {
+      "title": "COMP",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "md, Rmd, html(5), css, javascript",
+          "id": 58,
+          "attr": {
+            "position": [
+              167.3437499999999,
+              -312.4999999999999,
+              1
+            ],
+            "style": {
+              "background": "#008080"
+            }
+          }
+        },
+        "2": {
+          "title": "json",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "jq",
+              "id": 18,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "EN link: (<a href=\"evernote:///view/306100535/s10/30bb1f2e-3eee-478f-b7a5-65091859461c/30bb1f2e-3eee-478f-b7a5-65091859461c/\" target=\"_blank\">evernote:///view/306100535/s10/30bb1f2e-3eee-478f-b7a5-65091859461c/30bb1f2e-3eee-478f-b7a5-65091859461c/</a>)"
+                },
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        },
+        "3": {
+          "title": "yaml",
+          "id": 14,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<div>EN summary link: (<a href=\"evernote:///view/306100535/s10/e6dea349-eeae-4f53-8c44-b32e6029f1ac/e6dea349-eeae-4f53-8c44-b32e6029f1ac/\">evernote:///view/306100535/s10/e6dea349-eeae-4f53-8c44-b32e6029f1ac/e6dea349-eeae-4f53-8c44-b32e6029f1ac/</a>)<br></div>"
+            },
+            "storyboard-scenes": [
+              {
+                "storyboards": {
+                  "Storyboard 1": 1
+                },
+                "type": "with-children"
+              },
+              {
+                "storyboards": {
+                  "Storyboard 1": 2
+                }
+              }
+            ]
+          }
+        },
+        "4": {
+          "title": "R",
+          "id": 15,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        },
+        "5": {
+          "title": "Python",
+          "id": 32,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        },
+        "6": {
+          "title": "git（hub） through data science course",
+          "id": 56,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "3.5": {
+          "title": "Database",
+          "id": 34,
+          "ideas": {
+            "3": {
+              "title": "o0O. Learn, design Model/Schema to interact with AMC and analyzing/teaching algorithms",
+              "id": 36,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "EN summary link: (<a href=\"evernote:///view/306100535/s10/da615924-8c33-4439-8800-fad46fc79c0c/da615924-8c33-4439-8800-fad46fc79c0c/\">evernote:///view/306100535/s10/da615924-8c33-4439-8800-fad46fc79c0c/da615924-8c33-4439-8800-fad46fc79c0c/</a>)"
+                },
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "14": {
+              "title": "sqlite",
+              "id": 12,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                },
+                "storyboard-scenes": [
+                  {
+                    "storyboards": {
+                      "Storyboard 1": 3
+                    }
+                  }
+                ]
+              }
+            },
+            "24": {
+              "title": "pandas",
+              "id": 35,
+              "attr": {
+                "storyboard-scenes": [
+                  {
+                    "storyboards": {
+                      "Storyboard 1": 4
+                    }
+                  }
+                ],
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#008080"
+        },
+        "position": [
+          191.10937500000023,
+          330.94531249999966,
+          84
+        ]
+      }
+    },
+    "15.25": {
+      "title": "LaTex",
+      "id": 2,
+      "ideas": {
+        "37": {
+          "title": "AMC",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "automultiplechoice.sty",
+              "id": 17,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "2": {
+              "title": "vbox implementation?\nwhere? somewhere in (pre) mcproj dir",
+              "id": 80
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#808080"
+            },
+            "position": [
+              487.7812499999993,
+              405.6328124999996,
+              33
+            ]
+          }
+        },
+        "4.5": {
+          "title": "key-value",
+          "id": 10,
+          "ideas": {
+            "13": {
+              "title": "pgfkeys (tikz)",
+              "id": 67
+            },
+            "14": {
+              "title": "xkeyval (amc)",
+              "id": 68
+            },
+            "13.5": {
+              "title": "tb94wright-keyval",
+              "id": 23,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#808080"
+            },
+            "position": [
+              401.8437499999993,
+              255.2421874999996,
+              30
+            ]
+          }
+        },
+        "4.1875": {
+          "title": "My system",
+          "id": 60,
+          "attr": {
+            "style": {
+              "background": "#808080"
+            },
+            "position": [
+              390.1249999999993,
+              -115.85156250000028,
+              31
+            ]
+          },
+          "ideas": {
+            "2": {
+              "title": "Useful command wrapped: padding",
+              "id": 62,
+              "ideas": {
+                "1": {
+                  "title": "clearquadruplepage",
+                  "id": 69
+                },
+                "2": {
+                  "title": "multiple choice answer sheet/table",
+                  "id": 71
+                }
+              }
+            },
+            "3": {
+              "title": "Typical template defined: homework, exam, pyr...",
+              "id": 63
+            },
+            "4": {
+              "title": "common resources: my signature, student information (via csv/yaml/sqlite...)",
+              "id": 70
+            },
+            "14": {
+              "title": "cls /sty file in texfm",
+              "id": 61
+            }
+          }
+        },
+        "0.75": {
+          "title": "TEX",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "TEXbook",
+              "id": 3,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#808080"
+            },
+            "position": [
+              187.5625,
+              -254.18750000000006,
+              26
+            ]
+          }
+        },
+        "4.34375": {
+          "title": "Package",
+          "id": 7,
+          "attr": {
+            "style": {
+              "background": "#808080"
+            },
+            "position": [
+              479.9687499999993,
+              104.85156249999972,
+              32
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "The Talbot example",
+              "id": 25,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Scrapbooked:(<a href=\"file:///Users/hui/Yun/i3MBP/docu/document/scrapbook/data/20160304133203/index.html\">file:///Users/hui/Yun/i3MBP/docu/document/scrapbook/data/20160304133203/index.html</a>)"
+                }
+              }
+            },
+            "2": {
+              "title": "clsguide-2006",
+              "id": 27,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            }
+          }
+        },
+        "0.375": {
+          "title": "Beamer",
+          "id": 29,
+          "attr": {
+            "style": {
+              "background": "#808080"
+            },
+            "position": [
+              153.79687499999955,
+              -364.5859375000001,
+              27
+            ]
+          }
+        },
+        "0.5625": {
+          "title": "Tikz",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "o0O. Understand Tikz  as a model of designing \"building blocks\"",
+              "id": 66
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#808080"
+            },
+            "position": [
+              161.60937499999955,
+              -306.50390625000017,
+              28
+            ]
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#808080"
+        },
+        "position": [
+          341.10937499999955,
+          102.42968749999977,
+          85
+        ]
+      }
+    },
+    "5.71875": {
+      "title": "Question Bank",
+      "id": 54,
+      "attr": {
+        "position": [
+          140.68749999999966,
+          -589.3984375,
+          79
+        ],
+        "style": {
+          "background": "#808000"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "texify",
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          },
+          "id": 55
+        },
+        "2": {
+          "title": "base rule",
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          },
+          "ideas": {},
+          "id": 75
+        },
+        "3": {
+          "title": "the box:\nGoodnotes-DOC",
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "baseline",
+              "id": 79
+            },
+            "2": {
+              "title": "anchors",
+              "id": 81
+            }
+          },
+          "id": 78
+        }
+      }
+    },
+    "10.484375": {
+      "title": "Web app",
+      "id": 59,
+      "attr": {
+        "position": [
+          169.98437499999966,
+          -507.3671875,
+          78
+        ],
+        "style": {
+          "background": "#333333"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "to transfer UPC on the bottom of generated PDF  to corresponding EN-link, one click to fire up the Evernote note",
+          "id": 82
+        }
+      }
+    },
+    "11.67578125": {
+      "title": "Apple Classroom",
+      "id": 30,
+      "attr": {
+        "style": {
+          "background": "#000000"
+        },
+        "position": [
+          152.40624999999966,
+          -323.77343750000006,
+          81
+        ]
+      }
+    },
+    "11.080078125": {
+      "title": "MindMup\nhttp://discover.mindmup.com/keyboard-shortcuts",
+      "id": 57,
+      "attr": {
+        "style": {
+          "background": "#000000"
+        },
+        "position": [
+          179.74999999999966,
+          -429.2421875,
+          80
+        ]
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 17,
+      "ideaIdTo": 10,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 17,
+      "ideaIdTo": 7,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 35,
+      "ideaIdTo": 32,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 34,
+      "ideaIdTo": 15,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 12,
+      "ideaIdTo": 15,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 12,
+      "ideaIdTo": 4,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 30,
+      "ideaIdTo": 29,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ],
+  "attr": {
+    "style": {
+      "background": "#339966"
+    },
+    "storyboards": [
+      "Storyboard 1"
+    ]
+  }
+}
