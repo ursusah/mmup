@@ -237,6 +237,10 @@
               "attr": {
                 "style": {
                   "background": "#ffcc99"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Scrapbooked:(<a href=\"file:///Users/hui/Yun/i3MBP/docu/document/scrapbook/data/20160304133203/index.html\">file:///Users/hui/Yun/i3MBP/docu/document/scrapbook/data/20160304133203/index.html</a>)"
                 }
               }
             },
@@ -294,11 +298,7 @@
           281.8125,
           -40.625000000000114,
           66
-        ],
-        "attachment": {
-          "contentType": "text/html",
-          "content": "<div><br></div>Talbot example<div>&nbsp; &nbsp; scrapbooked at (<a href=\"file:///Users/hui/Yun/i3MBP/docu/document/scrapbook/data/20160304133203/index.html\" target=\"_blank\">file:///Users/hui/Yun/i3MBP/docu/document/scrapbook/data/20160304133203/index.html</a>)</div>"
-        }
+        ]
       }
     },
     "5.71875": {
