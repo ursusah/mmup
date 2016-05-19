@@ -178,17 +178,31 @@
             ]
           },
           "ideas": {
-            "1": {
-              "title": "cls /sty file in texfm",
-              "id": 61
-            },
             "2": {
               "title": "Useful command wrapped: padding",
-              "id": 62
+              "id": 62,
+              "ideas": {
+                "1": {
+                  "title": "clearquadruplepage",
+                  "id": 69
+                },
+                "2": {
+                  "title": "multiple choice answer sheet/table",
+                  "id": 71
+                }
+              }
             },
             "3": {
               "title": "Typical template defined: homework, exam, pyr...",
               "id": 63
+            },
+            "4": {
+              "title": "common resources: my signature, student information (via csv/yaml/sqlite...)",
+              "id": 70
+            },
+            "14": {
+              "title": "cls /sty file in texfm",
+              "id": 61
             }
           }
         },
