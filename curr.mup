@@ -32,12 +32,21 @@
                   "content": "- Knowledge base (lo's...)<div><br></div><div>- AO1-Knowledge-with-under-standing</div><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>AO2-Handling-applying-evaluating</div><div><br></div></blockquote>- Question type<div><br></div><div>- Difficulty level</div>"
                 }
               }
+            },
+            "3": {
+              "title": "Inventory: MBTI, others from wk \"learning style\"",
+              "id": 83
             }
           },
           "attr": {
             "style": {
               "background": "#ccffff"
-            }
+            },
+            "position": [
+              65.50527624783842,
+              -106.77224922765515,
+              1
+            ]
           }
         },
         "4": {
