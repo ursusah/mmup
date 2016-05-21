@@ -511,9 +511,24 @@
           "attr": {
             "style": {
               "background": "#808000"
-            }
+            },
+            "position": [
+              119.5,
+              -75.6015625,
+              1
+            ]
           },
-          "id": 55
+          "id": 55,
+          "ideas": {
+            "1": {
+              "title": "Decide template model cf. moodle",
+              "id": 84
+            },
+            "2": {
+              "title": "Decide appropriate format: yaml/xml?",
+              "id": 85
+            }
+          }
         },
         "2": {
           "title": "base rule",
